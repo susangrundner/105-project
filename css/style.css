@@ -8,7 +8,9 @@ section p {
 	color: #454545;
 }
 section h1 {
-	font: 32px 'Open Sans';
+	font-family: Arial;
+	color: #595959;
+	font: 32px;
 	font-weight: bold;
 }
 section p {
